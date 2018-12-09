@@ -1,0 +1,10 @@
+D:\Documents\Google Drive\VS\Stuff\ApexSearch\ApexSearch\bin\Debug\ApexSearch.exe.config
+D:\Documents\Google Drive\VS\Stuff\ApexSearch\ApexSearch\bin\Debug\ApexSearch.exe
+D:\Documents\Google Drive\VS\Stuff\ApexSearch\ApexSearch\bin\Debug\ApexSearch.pdb
+D:\Documents\Google Drive\VS\Stuff\ApexSearch\ApexSearch\obj\Debug\ApexSearch.csprojAssemblyReference.cache
+D:\Documents\Google Drive\VS\Stuff\ApexSearch\ApexSearch\obj\Debug\ApexSearch.csproj.CoreCompileInputs.cache
+D:\Documents\Google Drive\VS\Stuff\ApexSearch\ApexSearch\obj\Debug\ApexSearch.exe
+D:\Documents\Google Drive\VS\Stuff\ApexSearch\ApexSearch\obj\Debug\ApexSearch.pdb
+D:\Documents\Google Drive\VS\Stuff\ApexSearch\ApexSearch\bin\Debug\EPPlus.dll
+D:\Documents\Google Drive\VS\Stuff\ApexSearch\ApexSearch\bin\Debug\EPPlus.xml
+D:\Documents\Google Drive\VS\Stuff\ApexSearch\ApexSearch\obj\Debug\ApexSearch.csproj.CopyComplete
